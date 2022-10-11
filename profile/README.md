@@ -1,1 +1,7 @@
-# 中国农业大学 刘剑锋教授团队
+# National Engineering Laboratory for Animal Breeding, China Agricultural University, Beijing, China
+
+## Correspondence: 
+
+Jian-Feng Liu
+
+liujf@cau.edu.cn
